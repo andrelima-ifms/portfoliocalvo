@@ -1,5 +1,5 @@
 import './Header.css';
-import { LinearGradient } from 'expo-linear-gradient';
+
 
 export default function Header() {
   return (
